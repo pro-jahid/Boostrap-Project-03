@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.section-two h1{
+    font-size: 60px;
+}
+
+#carouselExampleCaptions .carousel-control-next, .carousel-control-prev{
+    left: auto !important;
+    top: auto !important;
+    right: 30px !important;
+    bottom: 30px !important;
+}
+#carouselExampleCaptions .carousel-control-prev{
+    right:110px !important;
+}
+#carouselExampleCaptions .carousel-caption-custom{
+    position: absolute !important;
+    top: 20% !important;
+    left:50px !important;
+    text-align: start !important;
+}
+.carosel-item-custom{
+    height: 600px;
+}
+#carouselExampleCaptions span:not(:disabled) {
+    background-color: #FF3811 !important;
+}
+#carouselExampleCaptions .carousel-control-next, .carousel-control-prev {
+    width: 5% !important;
+}
+.section-three h2{
+    font-size: 45px;
+}
+.car-custom{
+    width: 300px;
+    height: 300px;
+    bottom: 0px;
+    right: -50px;
+}
+.custom-img-85 {
+    height: 85%;
+}
+.section-four h2{
+    font-size: 45px;
+}
+.custom-icon{
+    background: transparent;
+}
